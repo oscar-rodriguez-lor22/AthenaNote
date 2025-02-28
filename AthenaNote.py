@@ -180,4 +180,3 @@ class AthenaNoteApp(tk.Tk):
 if __name__ == "__main__":
     app = AthenaNoteApp()
     app.mainloop()
-# Add scrollbar to TextEditor
